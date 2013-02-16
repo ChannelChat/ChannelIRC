@@ -1,0 +1,5 @@
+name: ${artifactId}
+main: com.feildmaster.module.craftirc.Patch
+version: ${version}
+author: feildmaster
+depend: [ChannelChat, CraftIRC]

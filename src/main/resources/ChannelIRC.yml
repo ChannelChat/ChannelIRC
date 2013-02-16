@@ -1,0 +1,2 @@
+message-format: '[irc] %1$s: %2$s'
+channels: []
